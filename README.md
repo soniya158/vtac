@@ -1,0 +1,1 @@
+﻿# VTAC Platform\n\nMinimal Vite + React project for the VTAC dashboard component.\n\n## Run locally\n\n1. npm install\n2. npm run dev\n\n## Notes\n\n- Ensure Git is installed on your machine to connect this repo to GitHub.\n- The repository appears initialized already if `.git` exists.\n
